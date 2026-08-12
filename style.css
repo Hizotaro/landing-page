@@ -27,3 +27,66 @@ button {
   border: none;
   cursor: pointer;
 }
+
+header {
+  background-color: var(--dark);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 10%;
+}
+
+.logo {
+  font-size: 24px;
+  color: var(--light);
+  font-weight: 900;
+}
+
+header ul {
+  display: flex;
+  gap: 24px;
+}
+
+header a {
+  font-size: 18px;
+  color: var(--gray);
+}
+
+.hero {
+  background-color: var(--dark);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 100px 10%;
+}
+
+.hero-text {
+  max-width: 450px;
+}
+
+.hero h1 {
+  font-size: 48px;
+  font-weight: 900;
+  color: var(--light);
+  margin: 0;
+}
+
+.hero p {
+  font-size: 18px;
+  color: var(--gray);
+}
+
+.hero button {
+  background-color: var(--blue);
+  color: var(--light);
+  font-weight: 700;
+  padding: 8px 32px;
+  border-radius: 8px;
+}
+
+.hero-image {
+  background-color: #6d747d;
+  width: 500px;
+  height: 220px;
+  flex-shrink: 0;
+}
