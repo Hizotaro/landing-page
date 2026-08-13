@@ -1,23 +1,20 @@
 # Landing Page
 
-Second personal project from [**The Odin Project**](https://www.theodinproject.com/)
+Second project from [The Odin Project](https://www.theodinproject.com/) Foundations course, built with Flexbox.
 
----
+Live site: <https://hizotaro.github.io/landing-page/>
 
-Landing page built from a provided design, demonstrating the Flexbox section of the Foundations course.
+## Skills practiced
 
-## Skills demonstrated
-
-- Flexbox layout: alignment, wrapping, and sizing
-- Building a page section by section from a design image
-- Git workflow: committing early and often, pushing to GitHub
+- Flexbox layout: alignment, wrapping, sizing
+- Recreating a page from a design image
+- Git workflow: committing as I finished each section, pushing to GitHub
 
 ## Image credits
 
-- (none yet — placeholders only)
+No external images were used. The image and illustration placeholders are plain CSS boxes built into the page, following the design provided in the project.
 
-## Project structure
+## Files
 
-    landing-page/
-    ├── index.html
-    └── style.css
+- `index.html` — page structure
+- `style.css` — all styles
